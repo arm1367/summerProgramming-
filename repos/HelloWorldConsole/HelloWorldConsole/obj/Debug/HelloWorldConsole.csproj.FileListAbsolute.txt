@@ -1,0 +1,7 @@
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojAssemblyReference.cache
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Users\Manpower\source\repos\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
