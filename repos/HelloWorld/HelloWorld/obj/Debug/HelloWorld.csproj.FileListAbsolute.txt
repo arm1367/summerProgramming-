@@ -2,9 +2,9 @@ C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.co
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmHello.resources
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\Manpower\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmHello.resources

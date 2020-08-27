@@ -7,6 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*
+ * My first C# Windows Form app.
+ * It Illustrates customizing the FORM and using labels, text boxes and buttons.
+ * Author: Alejandro ROjas 
+ * Date: 26/08/2020
+ * */
 
 namespace HelloWorld
 {
@@ -16,10 +22,10 @@ namespace HelloWorld
         {
             InitializeComponent();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
+        // Customize greeting
+        private void btnGreet_Click(object sender, EventArgs e)
         {
-
+            lblGreeting.Text = "Hello " + txtName.Text;
         }
     }
 }
